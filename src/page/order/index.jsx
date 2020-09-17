@@ -1,9 +1,3 @@
-/*
-* @Author: Rosen
-* @Date:   2018-02-05 13:01:18
-* @Last Modified by:   Rosen
-* @Last Modified time: 2018-02-05 13:24:59
-*/
 import React        from 'react';
 import { Link }     from 'react-router-dom';
 import MUtil        from 'util/mm.jsx'
