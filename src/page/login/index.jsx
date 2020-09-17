@@ -1,9 +1,3 @@
-/*
-* @Author: Rosen
-* @Date:   2018-01-25 17:37:22
-* @Last Modified by:   Rosen
-* @Last Modified time: 2018-01-26 12:29:31
-*/
 import React        from 'react';
 import MUtil        from 'util/mm.jsx'
 import User         from 'service/user-service.jsx'
