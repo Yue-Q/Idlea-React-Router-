@@ -1,8 +1,4 @@
-# @Author: Rosen
-# @Date:   2018-02-06 15:04:44
-# @Last Modified by:   Rosen
-# @Last Modified time: 2018-02-06 15:26:05
-#!/bin/sh
+
 
 GIT_HOME=/developer/git-repository/
 DEST_PATH=/product/front/
