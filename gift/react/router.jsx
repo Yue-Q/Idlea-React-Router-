@@ -1,9 +1,3 @@
-/*
-* @Author: Rosen
-* @Date:   2018-01-19 23:22:32
-* @Last Modified by:   Rosen
-* @Last Modified time: 2018-01-20 00:11:34
-*/
 
 // 页面路由
 window.location.href = 'http://www.baidu.com';
