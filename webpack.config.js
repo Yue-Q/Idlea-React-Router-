@@ -1,9 +1,3 @@
-/*
-* @Author: Rosen
-* @Date:   2018-01-13 11:26:52
-* @Last Modified by:   Rosen
-* @Last Modified time: 2018-02-07 10:35:01
-*/
 const path              = require('path');
 const webpack           = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
