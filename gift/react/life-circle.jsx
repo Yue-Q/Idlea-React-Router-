@@ -1,9 +1,3 @@
-/*
-* @Author: Rosen
-* @Date:   2018-01-19 21:40:51
-* @Last Modified by:   Rosen
-* @Last Modified time: 2018-01-19 21:41:00
-*/
 import React from 'react';
 import ReactDOM from 'react-dom';
 
