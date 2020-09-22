@@ -1,9 +1,3 @@
-/*
-* @Author: mmall
-* @Date:   2018-01-06 21:34:03
-* @Last Modified by:   mmall
-* @Last Modified time: 2018-01-06 21:42:00
-*/
 
 // 查看cookie
 document.cookie
