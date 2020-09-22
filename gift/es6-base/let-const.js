@@ -1,9 +1,3 @@
-/*
-* @Author: mmall
-* @Date:   2018-01-06 16:41:43
-* @Last Modified by:   mmall
-* @Last Modified time: 2018-01-06 18:02:52
-*/
 // 变量和常量
 let r = 2;
 r = 4;
