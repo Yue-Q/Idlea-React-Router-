@@ -1,9 +1,3 @@
-/*
-* @Author: mmall
-* @Date:   2018-01-06 17:00:55
-* @Last Modified by:   mmall
-* @Last Modified time: 2018-01-06 18:02:53
-*/
 // 箭头函数
 let value = 2;
 let double = x => 2 * x;
