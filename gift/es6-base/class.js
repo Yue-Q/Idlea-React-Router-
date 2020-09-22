@@ -1,10 +1,3 @@
-/*
-* @Author: mmall
-* @Date:   2018-01-06 20:10:11
-* @Last Modified by:   mmall
-* @Last Modified time: 2018-01-06 20:39:58
-*/
-
 // class constuctor
 class Animal{
     constructor(name){
