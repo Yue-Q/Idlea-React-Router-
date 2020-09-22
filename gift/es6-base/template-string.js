@@ -1,9 +1,3 @@
-/*
-* @Author: mmall
-* @Date:   2018-01-06 18:02:50
-* @Last Modified by:   mmall
-* @Last Modified time: 2018-01-06 19:44:11
-*/
 // 基本用法
 let str = `
 <div>
