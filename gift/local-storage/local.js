@@ -1,9 +1,3 @@
-/*
-* @Author: mmall
-* @Date:   2018-01-06 22:06:09
-* @Last Modified by:   mmall
-* @Last Modified time: 2018-01-06 22:17:36
-*/
 
 // 添加localStorage
 window.localStorage.setItem('name', 'Rosen');
