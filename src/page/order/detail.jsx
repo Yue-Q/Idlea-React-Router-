@@ -1,9 +1,3 @@
-/*
-* @Author: Rosen
-* @Date:   2018-02-05 13:40:42
-* @Last Modified by:   Rosen
-* @Last Modified time: 2018-02-05 15:52:07
-*/
 import React        from 'react';
 import MUtil        from 'util/mm.jsx'
 import Order        from 'service/order-service.jsx'
